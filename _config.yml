@@ -2,7 +2,7 @@
 # General Site Settings
 title: spacexplorer
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Aditu is a stylish and modern dark theme with a clean and unique design.
+description: spacexplorer is a project where the Unofficial SpaceX API is explored with Data Science.
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "http://spacexplorer.com" # The base hostname & protocol for your site, e.g. http://example.com
 
