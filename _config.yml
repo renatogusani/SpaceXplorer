@@ -4,7 +4,7 @@ title: Spacexplorer
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Aditu is a stylish and modern dark theme with a clean and unique design.
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "" # The base hostname & protocol for your site, e.g. http://example.com
+url: "http://spacexplorer.com" # The base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
@@ -25,7 +25,7 @@ hero:
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your email for contant form
+  email: renato.gusani@outlook.com # Add your email for contant form
   description: The Force is strong with this one. I have you now. I find your lack of faith disturbing. Hey, Luke! May the Force be with you. She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There’ll be no one to stop us this time! # Add a description of your form
 
 # NOTE
