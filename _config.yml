@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-title: Spacexplorer
+title: spacexplorer
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Aditu is a stylish and modern dark theme with a clean and unique design.
 baseurl: "" # The subpath of your site, e.g. /blog
@@ -17,7 +17,7 @@ author:
 #-------------------------------
 # Hero Settings
 hero:
-  title: Spacexplorer
+  title: spacexplorer
   description: Explore, learn and code.
   image: '/images/01.jpg'
 
