@@ -5,13 +5,12 @@ permalink: /about/
 image: '/images/60.jpg'
 ---
 
-Hi, my name is Brandon Watson. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird.
+Hi, my name is Renato. I like cosmology, because therein lies the greatest of mysteries, the evolution of the universe, contains all the drama, suspense, and cool narrative elements while being classical and continuous. In this project which I named spacexplorer, I explore the unofficial SpaceX API which can be found [Here](https://link-url-here.org](https://github.com/r-spacex/SpaceX-API). This is an open Source REST API for launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 
 ![Time to think]({{site.baseurl}}/images/31.jpg)
 *Time to think*
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally.
+I got the information from the SpaceX API and create a tidy dataset for additional research. I've automated the procedure and the necessary data filtering using Python functions, and I've provided a framework for any visitors who want to investigate the data and conduct their own research. For my project, I'll utilize the SpaceX data to evaluate whether a launch will be successful or not.
 
 <div class="gallery-box">
   <div class="gallery">
