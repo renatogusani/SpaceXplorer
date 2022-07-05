@@ -1,24 +1,12 @@
-# Aditu
+# spacexplorer
 
-Aditu is a stylish and modern dark theme with a clean and unique design, this theme is created for those who want to share their stories quickly and easily, as well as provide your readers with an unforgettable experience of viewing content.
-
-* * *
-
-### Demo
-
-Check the theme in action [Demo](https://aditu.netlify.com/)
+spacexplorer is a final year project completed as part of my BSc in Data Science at National College of Ireland. spacexplorer is a website which hosts 
+all my findings from the Unofficial SpaceX API.
 
 * * *
 
-### Deployment
+### Visit
 
-To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `bundle exec jekyll serve` to start the Jekyll server.
-
-I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
-
+Check spacexplorer in action [Visit](https://spacexplorer.info/)
 
 * * *
-
-### Documentation
-
-Before using the Aditu theme, please read the attached documentation.
