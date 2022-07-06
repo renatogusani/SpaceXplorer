@@ -3,11 +3,12 @@
 <h1 align="center">spacexplorer</h1>
 
 <h3 align="center">
-spacexplorer is a final year project completed as part of my BSc in Data Science at National College of Ireland. spacexplorer hosts 
-all my findings from the Unofficial SpaceX API. Including but not limited to launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
+spacexplorer is a final year project completed as part of my BSc in Data Science at National College of Ireland.
 </h3>
 
-
+<h3 align="center">
+spacexplorer hosts all my findings from the Unofficial SpaceX API. Including but not limited to launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
+</h3>
 
 <h4 align="center">
   <i>
