@@ -93,13 +93,15 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 Resources I found helpful and would like to give credit to!
 
 * [SpaceX REST API](https://github.com/r-spacex/SpaceX-API)
+* [Aditu](https://jekyllthemes.io/theme/aditu-blog-jekyll-theme)
+* [Best-README-Template]()
 * [Google Domains](https://domains.google)
 * [GitHub Pages](https://pages.github.com)
 * [Canva](https://www.canva.com)
 * [Choose an Open Source License](https://choosealicense.com)
 * [Img Shields](https://shields.io)
 
-
+https://jekyllthemes.io/theme/aditu-blog-jekyll-theme
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
