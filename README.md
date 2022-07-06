@@ -92,9 +92,12 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
+* [SpaceX REST API](https://github.com/r-spacex/SpaceX-API)
+* [GitHub Pages](https://pages.github.com)
 * [Choose an Open Source License](https://choosealicense.com)
 * [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
+
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
