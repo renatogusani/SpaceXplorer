@@ -75,14 +75,16 @@ This section should list any major frameworks/libraries used to bootstrap your p
 - [x] Register Domain for SpaceXplorer.info
 - [x] Create and edit landing page 
 - [ ] Create and edit "About" tab on site
+- [ ] Create and edit "Statistics" tab on site
+- [ ] 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Renato Gusani - renato.gusani@outlook.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/renatogusani/spacexplorer](https://github.com/renatogusani/spacexplorer)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -94,14 +96,12 @@ Resources I found helpful and would like to give credit to!
 
 * [SpaceX REST API](https://github.com/r-spacex/SpaceX-API)
 * [Aditu](https://jekyllthemes.io/theme/aditu-blog-jekyll-theme)
-* [Best-README-Template]()
+* [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 * [Google Domains](https://domains.google)
 * [GitHub Pages](https://pages.github.com)
 * [Canva](https://www.canva.com)
 * [Choose an Open Source License](https://choosealicense.com)
 * [Img Shields](https://shields.io)
-
-https://jekyllthemes.io/theme/aditu-blog-jekyll-theme
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -111,5 +111,5 @@ https://jekyllthemes.io/theme/aditu-blog-jekyll-theme
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[SCSS.js]: hhttps://sass-lang.com
-[SCSS-url]: hhttps://sass-lang.com
+[SCSS.js]: 
+[SCSS-url]: https://sass-lang.com
