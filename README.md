@@ -11,7 +11,7 @@ all my findings from the Unofficial SpaceX API. Including but not limited to lau
 
 <h4 align="center">
   <i>
-    spacexplorer is affiliated, associated, authorized, endorsed by, or in any way officially connected with Space Exploration Technologies Corp (SpaceX), or any of its subsidiaries or its affiliates. The names SpaceX as well as related names, marks, emblems and images are registered trademarks of their respective owners.
+    spacexplorer is NOT affiliated, associated, authorized, endorsed by, or in any way officially connected with Space Exploration Technologies Corp (SpaceX), or any of its subsidiaries or its affiliates. The names SpaceX as well as related names, marks, emblems and images are registered trademarks of their respective owners.
   </i>
 </h4>
 
