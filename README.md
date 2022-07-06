@@ -76,15 +76,19 @@ This section should list any major frameworks/libraries used to bootstrap your p
 - [x] Create and edit landing page 
 - [ ] Create and edit "About" tab on site
 - [ ] Create and edit "Statistics" tab on site
-- [ ] 
+- [ ] Analyse and run ML algorithms on SpaceX API with Python and Anaconda tools
+- [ ] Query the SpaceX API with GraphQL
+- [ ] Create and edit IEEE technical paper on the findings
 
 
 <!-- CONTACT -->
 ## Contact
 
-Renato Gusani - renato.gusani@outlook.com
+Renato Gusani - Email: renato.gusani@outlook.com
 
-Project Link: [https://github.com/renatogusani/spacexplorer](https://github.com/renatogusani/spacexplorer)
+Project Site Link: [https://github.com/renatogusani/spacexplorer](https://github.com/renatogusani/spacexplorer)
+
+Project IEEE Technical Paper: 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
