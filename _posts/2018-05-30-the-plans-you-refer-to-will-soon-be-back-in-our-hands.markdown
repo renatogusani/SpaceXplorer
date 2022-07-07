@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  The plans you refer to will soon be back in our hands
-date:   2018-05-30 18:05:55 +0300
+title:  Example
+date:   
 image:  '/images/12.jpg'
-tags:   Lifestyle
+tags:   
 ---
 Still, she's got a lot of spirit. I don't know, what do you think? Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I can't get involved! I've got work to do! It's not that I like the Empire, I hate it, but there's nothing I can do about it right now. It's such a long way from here.
 
