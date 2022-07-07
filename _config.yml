@@ -26,7 +26,7 @@ hero:
 # Contact Settings
 contact:
   email: renato.gusani@outlook.com # Add your email for contant form
-  description: Hello! Get in contact with me by filing in the below for, whether you would like to say hello or open up a dialogue, I am here! # Add a description of your form
+  description: Hello! Get in contact with me by filing in the below form, whether you would like to say hello or open up a dialogue, I am here! # Add a description of your form
 
 # NOTE
 # Aditu theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
@@ -42,12 +42,13 @@ social:
 #- {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 #- {icon: "ion-logo-instagram", link: "https://instagram.com"}
 #- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {icon: "ion-logo-github", link: "https://github.com"}
+- {icon: "ion-logo-github", link: "https://github.com/renatogusani"}
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/rgusani/"}
 
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: Reno # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
