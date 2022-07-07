@@ -44,7 +44,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About SpaceXplorer
 
-[![Product Name Screen Shot][product-screenshot]](https://spacexplorer.info)
+    <img src="images/Screenshot 2022-07-07 at 15.52.13.png" alt="Logo" width="852" height="479">
 
 SpaceXplorer is a final year project created as part of my BSc in Data Science at National College of Ireland.
 
