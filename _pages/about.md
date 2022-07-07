@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About SpaceXplorer & the Creator
 permalink: /about/
 image: '/images/60.jpg'
 ---
