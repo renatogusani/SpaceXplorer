@@ -14,6 +14,16 @@ The aforementioned sentence provides an overview or idea of KDD, however the pro
 
 Imagine that there is a little river nearby and that you are either a stone collector, a craft hobbyist, or a chance explorer. You already know that a riverbed is littered with stones, shells, and other unrelated things. Without this fundamental assumption, one cannot get to the source.
 
+Then, depending on who you are, your needs and requirements may differ. This is the second most important concept to grasp. So you go ahead and gather any stones, shells, coins, or other artifacts that may be lying on the riverbed. However, this brings dirt and other unwanted objects with it, which you will need to remove before the objects can be used again. 
+
+At this point, you may need to return and collect additional items based on your requirements, and this process may need to be repeated several times or completely skipped depending on the circumstances.
+
+To better suit your application, the collected objects must be separated into different types and cut, polished, or painted. This is known as the transformation stage. 
+
+During this process, you learn where you are more likely to find larger stones of a particular color - whether near the bank or deeper in the river, whether the artifacts are more likely to be found upstream or downstream, and so on. When learning data science, data mining is an important component.
+
+This aids in the decoding of patterns, which can lead to more efficient and faster task completion. You will eventually discover knowledge that is refined, reliable, and highly specific to your application.
+
 ![KDD Methdology Process]({{site.baseurl}}/images/kdd01.png)
 *KDD Methdology Process*
 
