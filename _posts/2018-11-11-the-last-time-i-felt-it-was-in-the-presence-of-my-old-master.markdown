@@ -14,7 +14,7 @@ The aforementioned sentence provides an overview or idea of KDD, however the pro
 
 Imagine that there is a little river nearby and that you are either a stone collector, a craft hobbyist, or a chance explorer. You already know that a riverbed is littered with stones, shells, and other unrelated things. Without this fundamental assumption, one cannot get to the source.
 
-<img src="images/kdd02.png" alt="Logo" width="1080" height="1080">
+<img src="/images/kdd02.png">
 *KDD Methodology*
 
 Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. Don't be too proud of this technological terror you've constructed. The ability to destroy a planet is insignificant next to the power of the Force.
