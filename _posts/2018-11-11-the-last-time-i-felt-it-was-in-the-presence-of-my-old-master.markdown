@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  A Methodology for Knowledge Discovery
-date:   2022-07-07 
+date:   2022-07-07 18:05:55 +0300
 image:  '/images/methodology.jpg'
 tags:   Methodology
 ---
