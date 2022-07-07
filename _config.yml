@@ -9,8 +9,8 @@ url: "http://spacexplorer.com" # The base hostname & protocol for your site, e.g
 
 #-------------------------------
 # Author Settings
-author: 19411076
-  name: Renato
+author:
+  name: 
   avatar: '/images/15.jpg'
 
 
