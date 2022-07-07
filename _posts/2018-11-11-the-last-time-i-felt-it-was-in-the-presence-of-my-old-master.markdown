@@ -29,31 +29,35 @@ This aids in the decoding of patterns, which can lead to more efficient and fast
 
 ### Steps Involved in a Typical KDD Process
 
-1. Setting Goals and Understanding Application 
+### 1. Setting Goals and Understanding Application 
 
 This is the first step in the process, and it necessitates prior understanding and knowledge of the field in question. This is where we decide how to use the transformed data and patterns discovered by data mining to extract knowledge. This is a critical premise that, if incorrectly set, can lead to incorrect interpretations and negative consequences for the end-user.
 
-2. Data Gathering and Integration 
+### 2. Data Gathering and Integration 
 
 Following the establishment of goals and objectives, the collected data must be selected and classified into meaningful sets based on availability, accessibility importance, and quality. These parameters are critical for data mining because they form the foundation and influence the types of data models that are formed. 
 
-3. Data Preparation and Cleaning 
+### 3. Data Preparation and Cleaning 
 
 This step entails looking for missing data and removing noisy, redundant, and low-quality data from the data set in order to increase the data's reliability and effectiveness. Certain algorithms are used to search for and eliminate unwanted data based on application-specific attributes.
 
-4. Data Conversion 
+### 4. Data Conversion 
 
 This step prepares the data for processing by data mining algorithms. As a result, the data must be consolidated and aggregated. The data is consolidated based on functions, attributes, features, and so on. 
 
-5. Information Mining 
+### 5. Information Mining 
 
 This is the foundation or backbone process of the entire KDD. Algorithms are used here to extract meaningful patterns from transformed data, which aids prediction models. It is an analytical tool that aids in the discovery of trends in a data set by employing techniques such as artificial intelligence, advanced numerical and statistical methods, and specialized algorithms.
 
-6. Pattern Analysis and Interpretation 
+### 6. Pattern Analysis and Interpretation 
 
 After obtaining the trend and patterns from various data mining methods and iterations, these patterns must be represented in discrete forms such as bar graphs, pie charts, histograms, and so on in order to study the impact of data collected and transformed in previous steps. This also aids in determining the effectiveness of a specific data model in relation to the domain. 
 
-7. Knowledge Acquisition and Application 
+### 7. Knowledge Acquisition and Application 
 
 This is the final step in the KDD process, and it requires the 'knowledge' extracted in the previous step to be applied to the specific application or domain in a visual format, such as tables, reports, and so on. This step directs the application's decision-making process.
+
+### Conclusion 
+
+In today's world, data is generated from a variety of sources and in a variety of formats, such as economic transactions, biometrics, scientific data, images and videos, and so on. With such massive amounts of information being traded every second, a technique that can extract the juice and provide reliable, high-quality, and effective data for use in various fields for decision making is critical. This is where KDD comes in handy.
 
