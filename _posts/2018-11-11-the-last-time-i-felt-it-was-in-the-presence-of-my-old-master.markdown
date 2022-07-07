@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  A Methodology for Knowledge Discovery
-date:   2018-11-11 15:01:35 +0300
+date:   2022-07-07 
 image:  '/images/methodology.jpg'
 tags:   Methodology
 ---
@@ -27,29 +27,33 @@ This aids in the decoding of patterns, which can lead to more efficient and fast
 ![KDD Methdology Process]({{site.baseurl}}/images/kdd01.png)
 *KDD Methdology Process*
 
-Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. Don't be too proud of this technological terror you've constructed. The ability to destroy a planet is insignificant next to the power of the Force.
+### Steps Involved in a Typical KDD Process
 
-Obi-Wan is here. The Force is with him. Partially, but it also obeys your commands. I call it luck. I'm trying not to, kid. Alderaan? I'm not going to Alderaan. I've got to go home. It's late, I'm in for it as it is.
+1. Setting Goals and Understanding Application 
 
-![In the city]({{site.baseurl}}/images/22.jpg)
-*In the city*
+This is the first step in the process, and it necessitates prior understanding and knowledge of the field in question. This is where we decide how to use the transformed data and patterns discovered by data mining to extract knowledge. This is a critical premise that, if incorrectly set, can lead to incorrect interpretations and negative consequences for the end-user.
 
-1. She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There'll be no one to stop us this time!
-2. Remember, a Jedi can feel the Force flowing through him.
-3. I want to come with you to Alderaan. There's nothing for me here now. I want to learn the ways of the Force and be a Jedi, like my father before me.
+2. Data Gathering and Integration 
 
-Hey, Luke! May the Force be with you. What?! Partially, but it also obeys your commands. Don't be too proud of this technological terror you've constructed. The ability to destroy a planet is insignificant next to the power of the Force.
+Following the establishment of goals and objectives, the collected data must be selected and classified into meaningful sets based on availability, accessibility importance, and quality. These parameters are critical for data mining because they form the foundation and influence the types of data models that are formed. 
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
->
-> <cite>George Bernard Shaw</cite>
+3. Data Preparation and Cleaning 
 
-The Force is strong with this one. I have you now. I find your lack of faith disturbing. Hey, Luke! May the Force be with you. She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There'll be no one to stop us this time!
+This step entails looking for missing data and removing noisy, redundant, and low-quality data from the data set in order to increase the data's reliability and effectiveness. Certain algorithms are used to search for and eliminate unwanted data based on application-specific attributes.
 
-I need your help, Luke. She needs your help. I'm getting too old for this sort of thing. Escape is not his plan. I must face him, alone. Hokey religions and ancient weapons are no match for a good blaster at your side, kid.
+4. Data Conversion 
 
-<p><iframe src="https://www.youtube.com/embed/BJpSS-nHbWg" frameborder="0" allowfullscreen></iframe></p>
+This step prepares the data for processing by data mining algorithms. As a result, the data must be consolidated and aggregated. The data is consolidated based on functions, attributes, features, and so on. 
 
-The more you tighten your grip, Tarkin, the more star systems will slip through your fingers. I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. Obi-Wan is here. The Force is with him.
+5. Information Mining 
 
-Don’t be too proud of this technological terror you’ve constructed. The ability to destroy a planet is insignificant next to the power of the Force. Your eyes can deceive you. Don’t trust them. What?! I don’t know what you’re talking about. I am a member of the Imperial Senate on a diplomatic.
+This is the foundation or backbone process of the entire KDD. Algorithms are used here to extract meaningful patterns from transformed data, which aids prediction models. It is an analytical tool that aids in the discovery of trends in a data set by employing techniques such as artificial intelligence, advanced numerical and statistical methods, and specialized algorithms.
+
+6. Pattern Analysis and Interpretation 
+
+After obtaining the trend and patterns from various data mining methods and iterations, these patterns must be represented in discrete forms such as bar graphs, pie charts, histograms, and so on in order to study the impact of data collected and transformed in previous steps. This also aids in determining the effectiveness of a specific data model in relation to the domain. 
+
+7. Knowledge Acquisition and Application 
+
+This is the final step in the KDD process, and it requires the 'knowledge' extracted in the previous step to be applied to the specific application or domain in a visual format, such as tables, reports, and so on. This step directs the application's decision-making process.
+
