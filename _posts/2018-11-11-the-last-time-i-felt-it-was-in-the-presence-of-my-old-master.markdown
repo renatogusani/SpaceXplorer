@@ -2,7 +2,7 @@
 layout: post
 title:  The last time I felt it was in the presence of my old master
 date:   2018-11-11 15:01:35 +0300
-image:  '/images/04.jpg'
+image:  '/images/kdd01.png'
 tags:   Travel
 ---
 Still, she's got a lot of spirit. I don't know, what do you think? Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I can't get involved! I've got work to do! It's not that I like the Empire, I hate it, but there's nothing I can do about it right now. It's such a long way from here.
