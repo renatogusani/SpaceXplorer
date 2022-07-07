@@ -1,14 +1,18 @@
 ---
 layout: post
-title:  The last time I felt it was in the presence of my old master
+title:  A Methodology for Knowledge Discovery
 date:   2018-11-11 15:01:35 +0300
-image:  '/images/04.jpg'
+image:  '/images/kdd02.png'
 tags:   Travel
 ---
 Still, she's got a lot of spirit. I don't know, what do you think? Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I can't get involved! I've got work to do! It's not that I like the Empire, I hate it, but there's nothing I can do about it right now. It's such a long way from here.
 
-### I care. So, what do you think of her, Han?
-I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. You are a part of the Rebel Alliance and a traitor! Take her away! Your eyes can deceive you. Don't trust them.
+### What is KDD?
+KDD, or knowledge discovery in databases, is a technique for extracting useful information and patterns from a raw database so that they can be applied to various fields or applications. 
+
+The aforementioned sentence provides an overview or idea of KDD, however the process is extensive and complex and requires numerous steps and iterations. Let's try to set the tone with an example before we go into the specifics of KDD.
+
+Imagine that there is a little river nearby and that you are either a stone collector, a craft hobbyist, or a chance explorer. You already know that a riverbed is littered with stones, shells, and other unrelated things. Without this fundamental assumption, one cannot get to the source.
 
 ![In the city]({{site.baseurl}}/images/21.jpg)
 *New York*
