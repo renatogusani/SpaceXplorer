@@ -44,7 +44,7 @@ social:
 #- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
 - {icon: "ion-logo-github", link: "https://github.com/renatogusani"}
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/rgusani/"}
-
+- {icon: "ion-logo-person-sharp", link: "https://www.renatogusani.github.io/"}
 
 #-------------------------------
 # Comment Section (Disqus)
