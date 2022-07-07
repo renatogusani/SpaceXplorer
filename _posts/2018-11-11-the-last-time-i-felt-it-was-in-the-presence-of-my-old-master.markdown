@@ -5,12 +5,12 @@ date:   2018-11-11 15:01:35 +0300
 image:  '/images/methodology.jpg'
 tags:   Travel
 ---
-I used the KDD process primarily to extract information from SpaceX API data in the context of large databases. KDD accomplishes this by employing Data Mining algorithms to identify what is considered knowledge. Knowledge Discovery in Databases is defined as the systematic, exploratory analysis and modeling of large data repositories. 
+I used the KDD process primarily to extract information from SpaceX API data in the context of large databases. I accomplished this by employing Data Mining algorithms to identify what is considered knowledge. Knowledge Discovery in Databases is defined as the systematic, exploratory analysis and modeling of large data repositories. 
 
 ### What is KDD?
 KDD, or knowledge discovery in databases, is a technique for extracting useful information and patterns from a raw database so that they can be applied to various fields or applications. 
 
-The aforementioned sentence provides an overview or idea of KDD, however the process is extensive and complex and requires numerous steps and iterations. Let's try to set the tone with an example before we go into the specifics of KDD.
+The aforementioned sentence provides an overview or idea of KDD, however the process is extensive and complex and requires numerous steps and iterations. I will try to set the tone with an example before I go into the specifics of KDD.
 
 Imagine that there is a little river nearby and that you are either a stone collector, a craft hobbyist, or a chance explorer. You already know that a riverbed is littered with stones, shells, and other unrelated things. Without this fundamental assumption, one cannot get to the source.
 
