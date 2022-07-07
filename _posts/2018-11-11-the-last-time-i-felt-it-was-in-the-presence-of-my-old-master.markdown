@@ -5,7 +5,7 @@ date:   2018-11-11 15:01:35 +0300
 image:  '/images/kdd02.png'
 tags:   Travel
 ---
-Still, she's got a lot of spirit. I don't know, what do you think? Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I can't get involved! I've got work to do! It's not that I like the Empire, I hate it, but there's nothing I can do about it right now. It's such a long way from here.
+I used the KDD process primarily to extract information from SpaceX API data in the context of large databases. KDD accomplishes this by employing Data Mining algorithms to identify what is considered knowledge. Knowledge Discovery in Databases is defined as the systematic, exploratory analysis and modeling of large data repositories. 
 
 ### What is KDD?
 KDD, or knowledge discovery in databases, is a technique for extracting useful information and patterns from a raw database so that they can be applied to various fields or applications. 
@@ -14,7 +14,7 @@ The aforementioned sentence provides an overview or idea of KDD, however the pro
 
 Imagine that there is a little river nearby and that you are either a stone collector, a craft hobbyist, or a chance explorer. You already know that a riverbed is littered with stones, shells, and other unrelated things. Without this fundamental assumption, one cannot get to the source.
 
-![In the city]({{site.baseurl}}/images/21.jpg)
+![KDD Methodology]'/images/kdd02.png'
 *New York*
 
 Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. Don't be too proud of this technological terror you've constructed. The ability to destroy a planet is insignificant next to the power of the Force.
