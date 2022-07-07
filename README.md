@@ -13,7 +13,7 @@
     <a href="https://github.com/renatogusani/spacexplorer"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/renatogusani/spacexplorer">View Site</a>
+    <a href="http://spacexplorer.info">View Site</a>
     ·
     <a href="https://github.com/renatogusani/spacexplorer">Report Bug</a>
     ·
