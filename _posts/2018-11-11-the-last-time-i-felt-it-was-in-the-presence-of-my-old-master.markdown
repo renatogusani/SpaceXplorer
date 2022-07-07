@@ -3,7 +3,7 @@ layout: post
 title:  A Methodology for Knowledge Discovery
 date:   2018-11-11 15:01:35 +0300
 image:  '/images/methodology.jpg'
-tags:   Travel
+tags:   Methodology
 ---
 I used the KDD process primarily to extract information from SpaceX API data in the context of large databases. I accomplished this by employing Data Mining algorithms to identify what is considered knowledge. Knowledge Discovery in Databases is defined as the systematic, exploratory analysis and modeling of large data repositories. 
 
