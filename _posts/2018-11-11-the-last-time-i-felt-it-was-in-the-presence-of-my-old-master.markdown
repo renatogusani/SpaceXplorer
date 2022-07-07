@@ -2,8 +2,8 @@
 layout: post
 title:  A Methodology for Knowledge Discovery
 date:   2022-11-11 15:01:35 +0300
-image:  '/images/kdd01.png'
-tags:   Methdology
+image:  '/images/kdd02.png'
+tags:   Travel
 ---
 Extracting relevant, non-trivial information from sizable databases is an iterative, multi-stage process called knowledge discovery in databases (KDD). The user is given many options at every step of the process, all of which have the potential to drastically alter the project's conclusion.
 
