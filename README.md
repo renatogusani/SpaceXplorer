@@ -44,7 +44,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About SpaceXplorer
 
-<img src="images/home-screen.png" alt="Logo" width="852" height="479">
+<img src="images/01png" alt="Logo" width="852" height="479">
 
 SpaceXplorer is a final year project created as part of my BSc in Data Science at National College of Ireland.
 
