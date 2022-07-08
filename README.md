@@ -62,7 +62,7 @@ SpaceXplorer is NOT affiliated, associated, authorized, endorsed by, or in any w
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Frameworks/libraries used to bootstrap SpaceXplorer. 
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
