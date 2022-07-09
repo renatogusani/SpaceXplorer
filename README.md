@@ -120,5 +120,5 @@ Resources I found helpful and would like to give credit to!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[Python.com]: https://img.shields.io/badge/Python-0769AD?style=for-the-badge&logo=Python&logoColor
+[Python.com]: https://img.shields.io/badge/Python-0769AD?style=for-the-badge&logo=Python&logoColor=bisque4
 [Python-url]: https://Python.com 
