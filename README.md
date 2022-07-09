@@ -5,10 +5,29 @@
     <img src="images/spacexplorer-banner.png" alt="Banner">
   </a>
 
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/renatogusani/spacexplorer?color=%230062cc&label=last%20commit&logo=Github&style=plastic">
-<img alt="Files in Repo" src="https://img.shields.io/github/directory-file-count/renatogusani/spacexplorer?color=%23414a4c&label=files&logo=Files&logoColor=%23FBFAF3&style=plastic">
-<img alt="repo size" src="https://img.shields.io/github/repo-size/renatogusani/spacexplorer?logo=DocuSign&style=plastic?">
-</p>
+  <h3 align="center">SpaceXplorer</h3>
+
+   <p align="center">
+     Explore the Unofficial SpaceX API with Data Science.
+     <br />
+     <a href="https://github.com/renatogusani/spacexplorer"><strong>Explore the docs »</strong></a>
+     <br />
+     <br />
+     <a href="http://spacexplorer.info">View Site</a>
+     ·
+     <a href="https://github.com/renatogusani/spacexplorer">Report Bug</a>
+     ·
+     <a href="https://github.com/renatogusani/spacexplorer">Request Feature</a>
+   </p>
+ </div>
+
+ <p align="center">
+ <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/renatogusani/spacexplorer?color=%230062cc&label=last%20commit&logo=Github&style=plastic">
+
+ <img alt="Files in Repo" src="https://img.shields.io/github/directory-file-count/renatogusani/spacexplorer?color=%23414a4c&label=files&logo=Files&logoColor=%23FBFAF3&style=plastic">
+
+ <img alt="repo size" src="https://img.shields.io/github/repo-size/renatogusani/spacexplorer?logo=DocuSign&style=plastic?">
+ </p>
   
 
 <!-- TABLE OF CONTENTS -->
