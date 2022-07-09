@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/renatogusani/spacexplorer">
-    <img src="images/spacexplorer-banner.png" alt="Logo" width="1280" height="640">
+    <img src="images/spacexplorer-banner.png" alt="Logo" width="320" height="300">
   </a>
 
   <h3 align="center">SpaceXplorer</h3>
