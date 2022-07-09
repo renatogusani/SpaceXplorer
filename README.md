@@ -70,6 +70,7 @@ SpaceXplorer is NOT affiliated, associated, authorized, endorsed by, or in any w
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
+* [![Python][Python.com]][Python-url]
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -154,3 +155,5 @@ Resources I found helpful and would like to give credit to!
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[Python.com]: https://img.shields.io/badge/Python-0769AD?style=for-the-badge&logo=Python&logoColor=white
+[Python-url]: https://Python.com 
