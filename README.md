@@ -23,6 +23,7 @@
 
 <p align="center">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/renatogusani/spacexplorer?color=%230062cc&label=last%20commit&logo=Github&style=plastic">
+  <img alt="Files in Repo" src="https://img.shields.io/github/directory-file-count/renatogusani/spacexplorer?color=%23414a4c&label=files&logo=Files&logoColor=%23FBFAF3&style=plastic"
 </p>
 
 <!-- TABLE OF CONTENTS -->
