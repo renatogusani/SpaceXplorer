@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/TcNobo/TcNo-Acc-Switcher?logo=GitHub&style=flat-square">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/renatogusani/spacexplorer?color=%230062cc&label=last%20commit&logo=Github&style=plastic">
 </p>
 
 <!-- TABLE OF CONTENTS -->
