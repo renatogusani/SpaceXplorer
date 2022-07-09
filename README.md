@@ -26,7 +26,7 @@
   
 <img alt="Files in Repo" src="https://img.shields.io/github/directory-file-count/renatogusani/spacexplorer?color=%23414a4c&label=files&logo=Files&logoColor=%23FBFAF3&style=plastic">
 
-<img alt="repo size" src="https://img.shields.io/github/repo-size/renatogusani/spacexplorer?logo=DocuSign&style=plastic?"
+<img alt="repo size" src="https://img.shields.io/github/repo-size/renatogusani/spacexplorer?logo=DocuSign&style=plastic?">
 </p>
 
 <!-- TABLE OF CONTENTS -->
