@@ -18,7 +18,7 @@ author:
 # Hero Settings
 hero:
   title: SpaceXplorer
-  description: Explore the Unofficial SpaceX API with Data Science. [Work In Progress]
+  description: Explore the Unofficial SpaceX API with Data Science. 
   image: '/images/01.jpg'
 
 
