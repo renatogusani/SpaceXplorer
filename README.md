@@ -117,13 +117,13 @@ Resources I found helpful and would like to give credit to!
 * [Aditu](https://jekyllthemes.io/theme/aditu-blog-jekyll-theme)
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 * [Google Domains](https://domains.google)
+* [Google Analytics](https://analytics.google.com/analytics/web/provision/#/provision)
 * [GitHub Pages](https://pages.github.com)
 * [Canva](https://www.canva.com)
 * [Choose an Open Source License](https://choosealicense.com)
 * [Img Shields](https://shields.io)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
