@@ -54,12 +54,12 @@
 
 <img src="images/home-screen.png" alt="Logo" width="852" height="479">
 
-SpaceXplorer is a final year project created as part of my BSc in Data Science at National College of Ireland.
+SpaceXplorer is a final year project created as part of my BSc in Data Science at National College of Ireland where I explore the SpaceX API with Data Science.
 
 Here's what you can expect to find on SpaceXplorer.info:
-* Data within the SpaceX API visualized in an unforgettable experience of viewing content. 
+* The SpaceX API exploration and findings visualized in an unforgettable experience of viewing content. 
 * Machine Learning algorithms findings discussed thouroughly
-* Statistics 
+* Live Statistics from the API
 
 SpaceXplorer.info hosts all my findings from the Unofficial SpaceX API. Including but not limited to launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 
