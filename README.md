@@ -60,9 +60,7 @@ SpaceXplorer is NOT affiliated, associated, authorized, endorsed by, or in any w
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-### Built With
-
-Frameworks/libraries used to bootstrap SpaceXplorer. 
+### Tools used to Create the SpaceXplorer Project 
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
