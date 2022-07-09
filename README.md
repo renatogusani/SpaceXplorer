@@ -11,16 +11,6 @@
 <img alt="repo size" src="https://img.shields.io/github/repo-size/renatogusani/spacexplorer?logo=DocuSign&style=plastic?">
 </p>
   
-<p align="center"><a target="_blank" href="https://github.com/TcNobo/TcNo-Acc-Switcher/releases/latest">
-  <img alt="Download latest" src="/other/img/DownloadLatestNEW.png" height=70"></a>
-  <a target="_blank" href="https://github.com/TcNobo/TcNo-Acc-Switcher/wiki">
-  <img alt="More info" src="/other/img/WikiButton.png" height=70"></a>
-</p>
-<p align="center"><a target="_blank" href="https://github.com/TcNobo/TcNo-Acc-Switcher-Themes">
-  <img alt="Themes" src="/other/img/Themes.png" height=70"></a>
-  <a target="_blank" href="https://github.com/TcNobo/TcNo-Acc-Switcher/wiki/Frequently-Asked-Questions">
-  <img alt="Themes" src="/other/img/FAQButton.png" height=70"></a>
-</p>
 
 <!-- TABLE OF CONTENTS -->
 <details>
