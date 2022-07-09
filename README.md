@@ -21,6 +21,9 @@
   </p>
 </div>
 
+<p align="center">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/TcNobo/TcNo-Acc-Switcher?logo=GitHub&style=flat-square">
+</p>
 
 <!-- TABLE OF CONTENTS -->
 <details>
