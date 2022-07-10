@@ -28,8 +28,7 @@
 <img alt="Files in Repo" src="https://img.shields.io/github/directory-file-count/renatogusani/spacexplorer?color=%23414a4c&label=files&logo=Files&logoColor=%23FBFAF3&style=plastic">
   
 <img alt="repo size" src="https://img.shields.io/github/repo-size/renatogusani/spacexplorer?logo=DocuSign&style=plastic?">
-  
-<img alt="license" src="https://img.shields.io/github/license/renatogusani/spacexplorer?logo=Open%20Source%20Initiative&style=plastic">
+[![GPL License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 </p>
@@ -170,3 +169,5 @@ Resources I found helpful and would like to give credit to!
 [GitHubPages-url]: https://pages.github.com
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/rgusani
+[license-shield]: https://img.shields.io/github/license/renatogusani/spacexplorer?logo=Open%20Source%20Initiative&style=plastic
+[license-url]: https://github.com/renatogusani/SpaceXplorer/blob/main/LICENSE.txt
