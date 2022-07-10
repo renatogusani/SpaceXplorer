@@ -78,7 +78,7 @@ SpaceXplorer.info hosts all my findings from the Unofficial SpaceX API. Includin
 
 Including Framesworks/Libraries
 
-* [![Next][Next.js]][Next-url]
+* [![Python][Python.js]][Python-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
@@ -139,8 +139,8 @@ Resources I found helpful and would like to give credit to!
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=cyan
-[Next-url]: https://nextjs.org/
+[Python.js]: https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=cyan
+[Python-url]: https://www.python.org
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
