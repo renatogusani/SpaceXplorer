@@ -28,7 +28,7 @@
 <img alt="Files" src="https://img.shields.io/github/directory-file-count/renatogusani/spacexplorer?color=%23414a4c&label=files&logo=Files&logoColor=%23FBFAF3&style=plastic">
 <img alt="Repo Size" src="https://img.shields.io/github/repo-size/renatogusani/spacexplorer?logo=DocuSign&style=plastic?">
 <img alt="License" src="https://img.shields.io/github/license/renatogusani/spacexplorer?logo=Open%20Source%20Initiative&style=plastic">
-<img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&style=plastic">
+<img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&style=555plastic">
 </p>
   
 
