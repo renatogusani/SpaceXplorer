@@ -79,7 +79,7 @@ SpaceXplorer.info hosts all my findings from the Unofficial SpaceX API. Includin
 Including Framesworks/Libraries
 
 * [![Python][Python.js]][Python-url]
-* [![React][React.js]][React-url]
+* [![Markdown][Markdown.js]][Markdown-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
@@ -141,10 +141,10 @@ Resources I found helpful and would like to give credit to!
 [product-screenshot]: images/screenshot.png
 [Python.js]: https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=cyan
 [Python-url]: https://www.python.org
-[React.js]: https://img.shields.io/badge/Markdown-20232A?style=for-the-badge&logo=markdown&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
+[Markdown.js]: https://img.shields.io/badge/Markdown-20232A?style=for-the-badge&logo=markdown&logoColor=61DAFB
+[Markdown-url]: https://www.markdownguide.org
+[Sass.js]: https://img.shields.io/badge/Sass.js-35495E?style=for-the-badge&logo=sass&logoColor=4FC08D
+[Sass-url]: https://sass-lang.com
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
 [Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
