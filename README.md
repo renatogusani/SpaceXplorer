@@ -98,12 +98,12 @@ Including Framesworks/Libraries
 ## Roadmap
 
 - [x] Register Domain for SpaceXplorer.info
-- [x] Create and edit landing page 
-- [ ] Create and edit "About" tab on site
-- [ ] Create and edit "Statistics" tab on site
-- [ ] Analyse and run ML algorithms on SpaceX API with Python and Anaconda tools
+- [x] Create a landing page 
+- [x] Create an "About" tab on site
+- [x] Create a "Statistics" tab on site
+- [ ] Analyse and run ML algorithms on SpaceX API with Python and Anaconda tools, GraphQL
 - [ ] Query the SpaceX API with GraphQL
-- [ ] Create and edit IEEE technical paper on the findings
+- [ ] Create and edit 10-page+ IEEE technical paper on the findings
 
 
 <!-- LICENSE -->
