@@ -83,7 +83,7 @@ Including Framesworks/Libraries
 * [![Sass][Sass.js]][Sass-url]
 * [![JavaScript][JavaScript.io]][JavaScript-url]
 * [![Ruby][Ruby.dev]][Ruby-url]
-* [![Laravel][Laravel.com]][Laravel-url]
+* [![Pandas][Pandas.com]][Pandas-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
@@ -149,8 +149,8 @@ Resources I found helpful and would like to give credit to!
 [Javascript-url]: https://angular.io/
 [Ruby.dev]: https://img.shields.io/badge/Ruby-4A4A55?style=for-the-badge&logo=ruby&logoColor=FF3E00
 [Ruby-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
+[Pandas.com]: https://img.shields.io/badge/Pandas-FF2D20?style=for-the-badge&logo=pandas&logoColor=white
+[Pandas-url]: https://laravel.com
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
