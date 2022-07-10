@@ -84,7 +84,7 @@ Including Framesworks/Libraries
 * [![JavaScript][JavaScript.io]][JavaScript-url]
 * [![Ruby][Ruby.dev]][Ruby-url]
 * [![Pandas][Pandas.com]][Pandas-url]
-* [![scikit-learn][scikit-learn.com]][scikit-learn-url]
+* [![scikitlearn][scikitlearn.com]][scikitlearn-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
 
@@ -151,7 +151,7 @@ Resources I found helpful and would like to give credit to!
 [Ruby-url]: https://svelte.dev/
 [Pandas.com]: https://img.shields.io/badge/Pandas-FF2D20?style=for-the-badge&logo=pandas&logoColor=white
 [Pandas-url]: https://laravel.com
-[scikit-learn.com]: https://img.shields.io/badge/scikit-learn-563D7C?style=for-the-badge&logo=scikit-learn&logoColor=white
-[scikit-learn-url]: https://getbootstrap.com
+[scikitlearn.com]: https://img.shields.io/badge/scikitlearn-563D7C?style=for-the-badge&logo=scikitlearn-learn&logoColor=white
+[scikitlearn-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
