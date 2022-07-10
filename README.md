@@ -24,11 +24,10 @@
 
 
 <p align="center">
-[lastcommit-shield]
-[files-shield]][files-url]
-[repo-shield]][repo-url]
-[license-shield]][license-url]
-[linkedin-shield]][linkedin-url]
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/renatogusani/spacexplorer?color=%230062cc&label=last%20commit&logo=Github&style=plastic">
+<img alt="Files" src="https://img.shields.io/github/directory-file-count/renatogusani/spacexplorer?color=%23414a4c&label=files&logo=Files&logoColor=%23FBFAF3&style=plastic">
+<img alt="Repo Size" src="https://img.shields.io/github/repo-size/renatogusani/spacexplorer?logo=DocuSign&style=plastic?">
+<img alt="license" src="https://img.shields.io/github/license/renatogusani/spacexplorer?logo=Open%20Source%20Initiative&style=plastic">
 </p>
   
 
