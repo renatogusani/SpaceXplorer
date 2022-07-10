@@ -143,7 +143,7 @@ Resources I found helpful and would like to give credit to!
 [Python-url]: https://www.python.org
 [Markdown.js]: https://img.shields.io/badge/Markdown-20232A?style=for-the-badge&logo=markdown&logoColor=61DAFB
 [Markdown-url]: https://www.markdownguide.org
-[Sass.js]: https://img.shields.io/badge/Sass.js-35495E?style=for-the-badge&logo=sass&logoColor=4FC08D
+[Sass.js]: https://img.shields.io/badge/Sass-35495E?style=for-the-badge&logo=sass&logoColor=4FC08D
 [Sass-url]: https://sass-lang.com
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
