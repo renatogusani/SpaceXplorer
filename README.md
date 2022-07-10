@@ -22,9 +22,7 @@
    </p>
  </div>
 
-<p align="center">
-  [![GPL License][license-shield]][license-url]
-  [![LinkedIn][linkedin-shield]][linkedin-url]
+<p align="center"> [![GPL License][license-shield]][license-url][![LinkedIn][linkedin-shield]][linkedin-url]
 
 </p>
   
