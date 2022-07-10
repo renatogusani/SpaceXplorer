@@ -167,7 +167,7 @@ Resources I found helpful and would like to give credit to!
 [GoogleDomains-url]: https://domains.google
 [GitHubPages.com]: https://img.shields.io/badge/GitHubPages-20232A?style=for-the-badge&logo=githubpages&logoColor=61DAFB
 [GitHubPages-url]: https://pages.github.com
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=plastic
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/rgusani
 [license-shield]: https://img.shields.io/github/license/renatogusani/spacexplorer?logo=Open%20Source%20Initiative&style=plastic
 [license-url]: https://github.com/renatogusani/SpaceXplorer/blob/main/LICENSE.txt
