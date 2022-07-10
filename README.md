@@ -86,7 +86,7 @@ Including Framesworks/Libraries
 * [![Pandas][Pandas.com]][Pandas-url]
 * [![scikit][scikit.com]][scikit-url]
 * [![GraphQL][GraphQL.com]][GraphQL-url]
-
+* [![Jekyll][Jekyll.js]][Jekyll-url]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -155,3 +155,5 @@ Resources I found helpful and would like to give credit to!
 [scikit-url]: https://getbootstrap.com
 [GraphQL.com]: https://img.shields.io/badge/GraphQL-0769AD?style=for-the-badge&logo=graphql&logoColor=white
 [GraphQL-url]: https://jquery.com 
+[Jekyll.js]: https://img.shields.io/badge/Jekyll-20232A?style=for-the-badge&logo=jekyll&logoColor=61DAFB
+[Jekyll-url]: https://www.markdownguide.org
