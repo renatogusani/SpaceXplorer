@@ -106,11 +106,8 @@ Distributed under the GNU General Public License v3.0. See `LICENSE.txt` for mor
 <!-- CONTACT -->
 ## Contact
 
-Renato Gusani - Email: renato.gusani@outlook.com
-
-Project Site Link: [https://github.com/renatogusani/spacexplorer](https://github.com/renatogusani/spacexplorer)
-
-Project IEEE Technical Paper: 
+- Email: renato.gusani@outlook.com
+- LinkedIn: https://www.linkedin.com/in/rgusani/
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
