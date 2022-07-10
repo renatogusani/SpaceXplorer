@@ -88,6 +88,9 @@ Including Framesworks/Libraries
 * [![GraphQL][GraphQL.com]][GraphQL-url]
 * [![Jekyll][Jekyll.js]][Jekyll-url]
 * [![GoogleDomains][GoogleDomains.js]][GoogleDomains-url]
+* [![GitHubPages][GitHubPages.js]][GitHubPages-url]
+
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -159,3 +162,5 @@ Resources I found helpful and would like to give credit to!
 [Jekyll-url]: https://www.markdownguide.org
 [GoogleDomains.js]: https://img.shields.io/badge/GoogleDomains-20232A?style=for-the-badge&logo=googledomains&logoColor=61DAFB
 [GoogleDomains-url]: https://www.markdownguide.org
+[GitHubPages.js]: https://img.shields.io/badge/GitHubPages-20232A?style=for-the-badge&logo=githubpages&logoColor=61DAFB
+[GitHubPages-url]: https://www.markdownguide.org
