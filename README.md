@@ -80,9 +80,10 @@ Including Framesworks/Libraries
 
 * [![Python][Python.js]][Python-url]
 * [![Markdown][Markdown.js]][Markdown-url]
+* [![HTML][HTML.js]][HTML-url]
 * [![Sass][Sass.js]][Sass-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
+* [![JavaScript][JavaScript.io]][JavaScript-url]
+* [![Ruby][Ruby.dev]][Ruby-url]
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
@@ -145,10 +146,10 @@ Resources I found helpful and would like to give credit to!
 [Markdown-url]: https://www.markdownguide.org
 [Sass.js]: https://img.shields.io/badge/Sass-35495E?style=for-the-badge&logo=sass&logoColor=4FC08D
 [Sass-url]: https://sass-lang.com
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
+[Javascript.io]: https://img.shields.io/badge/Javascript-DD0031?style=for-the-badge&logo=javascript&logoColor=white
+[Javascript-url]: https://angular.io/
+[Ruby.dev]: https://img.shields.io/badge/Ruby-4A4A55?style=for-the-badge&logo=ruby&logoColor=FF3E00
+[Ruby-url]: https://svelte.dev/
 [Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [Laravel-url]: https://laravel.com
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
