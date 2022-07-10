@@ -85,7 +85,7 @@ Including Framesworks/Libraries
 * [![Ruby][Ruby.dev]][Ruby-url]
 * [![Pandas][Pandas.com]][Pandas-url]
 * [![scikit][scikit.com]][scikit-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![GraphQL][GraphQL.com]][GraphQL-url]
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -153,5 +153,5 @@ Resources I found helpful and would like to give credit to!
 [Pandas-url]: https://laravel.com
 [scikit.com]: https://img.shields.io/badge/scikit-563D7C?style=for-the-badge&logo=scikit-learn&logoColor=white
 [scikit-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[GraphQL.com]: https://img.shields.io/badge/GraphQL-0769AD?style=for-the-badge&logo=graphql&logoColor=white
+[GraphQL-url]: https://jquery.com 
