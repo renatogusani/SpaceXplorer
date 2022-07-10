@@ -23,7 +23,7 @@
  </div>
 
 
-[![Last Commit][lastcommit-shield]]
+[![Last Commit][lastcommit-shield]
 [![Files][files-shield]][files-url]
 [![Repo Size][repo-shield]][repo-url]
 [![GPL License][license-shield]][license-url]
