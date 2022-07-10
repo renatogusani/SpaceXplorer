@@ -150,7 +150,7 @@ Resources I found helpful and would like to give credit to!
 [Javascript-url]: https://angular.io/
 [Ruby.dev]: https://img.shields.io/badge/Ruby-4A4A55?style=for-the-badge&logo=ruby&logoColor=FF3E00
 [Ruby-url]: https://svelte.dev/
-[HTML.com]: https://img.shields.io/badge/HTML-FF2D20?style=for-the-badge&logo=HTML&logoColor=white
+[HTML.com]: https://img.shields.io/badge/HTML-FF2D20?style=for-the-badge&logo=html&logoColor=white
 [HTML-url]: https://laravel.com
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
