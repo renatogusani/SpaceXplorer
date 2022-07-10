@@ -18,8 +18,7 @@
      <a href="https://github.com/renatogusani/spacexplorer">Report Bug</a>
      ·
      <a href="https://github.com/renatogusani/spacexplorer">Request Feature</a>
-     
-     [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/)
+
    </p>
  </div>
 
