@@ -24,8 +24,8 @@
 
 <p align="center">
 
-* [![GPL License][license-shield]][license-url]
-* [![LinkedIn][linkedin-shield]][linkedin-url]
+[![GPL License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 </p>
   
