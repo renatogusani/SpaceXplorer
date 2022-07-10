@@ -78,17 +78,17 @@ SpaceXplorer.info hosts all my findings from the Unofficial SpaceX API. Includin
 
 Including Framesworks/Libraries
 
-* [![Python][Python.js]][Python-url]
-* [![Markdown][Markdown.js]][Markdown-url]
-* [![Sass][Sass.js]][Sass-url]
-* [![JavaScript][JavaScript.io]][JavaScript-url]
-* [![Ruby][Ruby.dev]][Ruby-url]
-* [![Pandas][Pandas.com]][Pandas-url]
-* [![scikit][scikit.com]][scikit-url]
-* [![GraphQL][GraphQL.com]][GraphQL-url]
-* [![Jekyll][Jekyll.js]][Jekyll-url]
-* [![GoogleDomains][GoogleDomains.js]][GoogleDomains-url]
-* [![GitHubPages][GitHubPages.js]][GitHubPages-url]
+* [![Python][Python.org]][Python-url]
+* [![Markdown][Markdown.org]][Markdown-url]
+* [![Sass][Sass.com]][Sass-url]
+* [![JavaScript][JavaScript.com]][JavaScript-url]
+* [![Ruby][Ruby.org]][Ruby-url]
+* [![Pandas][Pandas.org]][Pandas-url]
+* [![scikit][scikit.org]][scikit-url]
+* [![GraphQL][GraphQL.org]][GraphQL-url]
+* [![Jekyll][Jekyll.com]][Jekyll-url]
+* [![GoogleDomains][GoogleDomains.com]][GoogleDomains-url]
+* [![GitHubPages][GitHubPages.com]][GitHubPages-url]
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -142,25 +142,25 @@ Resources I found helpful and would like to give credit to!
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [product-screenshot]: images/screenshot.png
-[Python.js]: https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=cyan
+[Python.org]: https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=cyan
 [Python-url]: https://www.python.org
-[Markdown.js]: https://img.shields.io/badge/Markdown-20232A?style=for-the-badge&logo=markdown&logoColor=61DAFB
+[Markdown.org]: https://img.shields.io/badge/Markdown-20232A?style=for-the-badge&logo=markdown&logoColor=61DAFB
 [Markdown-url]: https://www.markdownguide.org
-[Sass.js]: https://img.shields.io/badge/Sass-35495E?style=for-the-badge&logo=sass&logoColor=4FC08D
+[Sass.com]: https://img.shields.io/badge/Sass-35495E?style=for-the-badge&logo=sass&logoColor=4FC08D
 [Sass-url]: https://sass-lang.com
-[Javascript.io]: https://img.shields.io/badge/Javascript-DD0031?style=for-the-badge&logo=javascript&logoColor=white
-[Javascript-url]: https://angular.io/
-[Ruby.dev]: https://img.shields.io/badge/Ruby-4A4A55?style=for-the-badge&logo=ruby&logoColor=FF3E00
-[Ruby-url]: https://svelte.dev/
-[Pandas.com]: https://img.shields.io/badge/Pandas-FF2D20?style=for-the-badge&logo=pandas&logoColor=white
-[Pandas-url]: https://laravel.com
-[scikit.com]: https://img.shields.io/badge/scikit-563D7C?style=for-the-badge&logo=scikit-learn&logoColor=white
-[scikit-url]: https://getbootstrap.com
-[GraphQL.com]: https://img.shields.io/badge/GraphQL-0769AD?style=for-the-badge&logo=graphql&logoColor=white
-[GraphQL-url]: https://jquery.com 
-[Jekyll.js]: https://img.shields.io/badge/Jekyll-20232A?style=for-the-badge&logo=jekyll&logoColor=61DAFB
-[Jekyll-url]: https://www.markdownguide.org
-[GoogleDomains.js]: https://img.shields.io/badge/GoogleDomains-20232A?style=for-the-badge&logo=googledomains&logoColor=61DAFB
-[GoogleDomains-url]: https://www.markdownguide.org
-[GitHubPages.js]: https://img.shields.io/badge/GitHubPages-20232A?style=for-the-badge&logo=githubpages&logoColor=61DAFB
-[GitHubPages-url]: https://www.markdownguide.org
+[Javascript.com]: https://img.shields.io/badge/Javascript-DD0031?style=for-the-badge&logo=javascript&logoColor=white
+[Javascript-url]: [https://angular.io/](https://www.javascript.com)
+[Ruby.org]: https://img.shields.io/badge/Ruby-4A4A55?style=for-the-badge&logo=ruby&logoColor=FF3E00
+[Ruby-url]: [https://svelte.dev/](https://www.ruby-lang.org/en/)
+[Pandas.org]: https://img.shields.io/badge/Pandas-FF2D20?style=for-the-badge&logo=pandas&logoColor=white
+[Pandas-url]: https://pandas.pydata.org
+[scikit.org]: https://img.shields.io/badge/scikit-563D7C?style=for-the-badge&logo=scikit-learn&logoColor=white
+[scikit-url]: [https://getbootstrap.com](https://scikit-learn.org/stable/)
+[GraphQL.org]: https://img.shields.io/badge/GraphQL-0769AD?style=for-the-badge&logo=graphql&logoColor=white
+[GraphQL-url]: https://graphql.org
+[Jekyll.com]: https://img.shields.io/badge/Jekyll-20232A?style=for-the-badge&logo=jekyll&logoColor=61DAFB
+[Jekyll-url]: https://jekyllrb.com
+[GoogleDomains.com]: https://img.shields.io/badge/GoogleDomains-20232A?style=for-the-badge&logo=googledomains&logoColor=61DAFB
+[GoogleDomains-url]: https://domains.google
+[GitHubPages.com]: https://img.shields.io/badge/GitHubPages-20232A?style=for-the-badge&logo=githubpages&logoColor=61DAFB
+[GitHubPages-url]: https://pages.github.com
