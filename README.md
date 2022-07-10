@@ -23,12 +23,12 @@
  </div>
 
 
-[![Last Commit][lastcommit-shield]
-[![Files][files-shield]][files-url]
-[![Repo Size][repo-shield]][repo-url]
-[![GPL License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
+<p align="center">
+  [![Last Commit][lastcommit-shield]
+  [![Files][files-shield]][files-url]
+  [![Repo Size][repo-shield]][repo-url]
+  [![GPL License][license-shield]][license-url]
+  [![LinkedIn][linkedin-shield]][linkedin-url]
 </p>
   
 
