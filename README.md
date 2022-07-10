@@ -141,7 +141,7 @@ Resources I found helpful and would like to give credit to!
 [product-screenshot]: images/screenshot.png
 [Python.js]: https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=cyan
 [Python-url]: https://www.python.org
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React.js]: https://img.shields.io/badge/Markdown-20232A?style=for-the-badge&logo=markdown&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
