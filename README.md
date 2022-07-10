@@ -151,13 +151,13 @@ Resources I found helpful and would like to give credit to!
 [Sass.com]: https://img.shields.io/badge/Sass-35495E?style=for-the-badge&logo=sass&logoColor=4FC08D
 [Sass-url]: https://sass-lang.com
 [Javascript.com]: https://img.shields.io/badge/Javascript-DD0031?style=for-the-badge&logo=javascript&logoColor=white
-[Javascript-url]: [https://angular.io/](https://www.javascript.com)
+[Javascript-url]: https://www.javascript.com
 [Ruby.org]: https://img.shields.io/badge/Ruby-4A4A55?style=for-the-badge&logo=ruby&logoColor=FF3E00
-[Ruby-url]: [https://svelte.dev/](https://www.ruby-lang.org/en/)
+[Ruby-url]: https://www.ruby-lang.org/en/
 [Pandas.org]: https://img.shields.io/badge/Pandas-FF2D20?style=for-the-badge&logo=pandas&logoColor=white
 [Pandas-url]: https://pandas.pydata.org
 [scikit.org]: https://img.shields.io/badge/scikit-563D7C?style=for-the-badge&logo=scikit-learn&logoColor=white
-[scikit-url]: [https://getbootstrap.com](https://scikit-learn.org/stable/)
+[scikit-url]: https://scikit-learn.org/stable/
 [GraphQL.org]: https://img.shields.io/badge/GraphQL-0769AD?style=for-the-badge&logo=graphql&logoColor=white
 [GraphQL-url]: https://graphql.org
 [Jekyll.com]: https://img.shields.io/badge/Jekyll-20232A?style=for-the-badge&logo=jekyll&logoColor=61DAFB
