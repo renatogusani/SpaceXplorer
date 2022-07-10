@@ -23,10 +23,8 @@
  </div>
 
 <p align="center"> 
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/renatogusani/spacexplorer?color=%230062cc&label=last%20commit&logo=Github&style=plastic">
-  
-<img alt="Files in Repo" src="https://img.shields.io/github/directory-file-count/renatogusani/spacexplorer?color=%23414a4c&label=files&logo=Files&logoColor=%23FBFAF3&style=plastic">
-  
+[![Last Commit][lastcommit-shield]]
+[![Files][files-shield]][files-url]
 [![Repo Size][repo-shield]][repo-url]
 [![GPL License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -173,3 +171,6 @@ Resources I found helpful and would like to give credit to!
 [license-url]: https://github.com/renatogusani/SpaceXplorer/blob/main/LICENSE.txt
 [repo-shield]: https://img.shields.io/github/repo-size/renatogusani/spacexplorer?logo=DocuSign&style=plastic?
 [repo-url]: https://github.com/renatogusani/SpaceXplorer/archive/refs/heads/main.zip
+[lastcommit-shield]: https://img.shields.io/github/last-commit/renatogusani/spacexplorer?color=%230062cc&label=last%20commit&logo=Github&style=plastic
+[files-shield]: https://img.shields.io/github/directory-file-count/renatogusani/spacexplorer?color=%23414a4c&label=files&logo=Files&logoColor=%23FBFAF3&style=plastic
+[files-url]: https://github.com/renatogusani/SpaceXplorer
