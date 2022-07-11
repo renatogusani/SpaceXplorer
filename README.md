@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/renatogusani/spacexplorer">
+  <a href="https://spacexplorer.info">
     <img src="images/spacexplorer-banner.png" alt="Banner">
   </a>
 
