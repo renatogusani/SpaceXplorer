@@ -102,10 +102,11 @@ Including Framesworks/Libraries
 - [x] Create a landing page 
 - [x] Create an "About" tab on site
 - [x] Create a "Statistics" tab on site
-- [ ] Analyse and run ML algorithms on SpaceX API with Python and Anaconda tools, GraphQL
+- [ ] Analyse and run ML algorithms on SpaceX API with Python and Anaconda tools
 - [ ] Query the SpaceX API with GraphQL
+- [ ] Host Live Stats from API to site 'Statistics' tab
 - [ ] Create and edit 10-page+ IEEE technical paper on the findings
-
+- [ ] Document key aspects of IEEE report on home tab of site
 
 <!-- LICENSE -->
 ## License
