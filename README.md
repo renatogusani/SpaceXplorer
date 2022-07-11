@@ -37,7 +37,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About</a>
+      <a href="#About SpaceXplorer">About the Project</a>
     </li>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
