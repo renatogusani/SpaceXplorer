@@ -15,7 +15,7 @@
      <br />
      <a href="http://spacexplorer.info">View Site</a>
      ·
-     <a href="https://github.com/renatogusani/spacexplorer">Report Bug</a>
+     <a href="https://github.com/renatogusani/SpaceXplorer/issues">Report Bug</a>
      ·
      <a href="https://github.com/renatogusani/spacexplorer">Request Feature</a>
 
