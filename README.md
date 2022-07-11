@@ -99,6 +99,7 @@ Including Framesworks/Libraries
 ## Roadmap
 
 - [x] Register Domain for SpaceXplorer.info
+- [x] Host Domain on Github Pages, enable HTTPS
 - [x] Create a 'Home' landing page 
 - [x] Create an "About" tab on site
 - [x] Create a "Contact Me" tab on site
