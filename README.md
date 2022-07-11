@@ -106,7 +106,7 @@ Including Framesworks/Libraries
 - [x] Create a "Statistics" tab on site
 - [x] Create an "error 404" page for invalid locations on site
 - [ ] Analyse and run ML algorithms on SpaceX API with Python and Anaconda tools
-- [ ] Query the SpaceX API with GraphQL
+- [ ] Migrate the SpaceX API to GraphQL and create a basic app with ML to showcase landing/launch predictions
 - [ ] Host Live Stats from API to site 'Statistics' tab
 - [ ] Create and edit 10-page+ IEEE technical paper on the findings
 - [ ] Document key aspects of IEEE report on home tab of site, such as KDD Methdology
