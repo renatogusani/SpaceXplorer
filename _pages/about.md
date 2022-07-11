@@ -12,6 +12,13 @@ View the official Github Repo for the SpaceXplorer Project - [Here](https://gith
 ![SpaceX Falcon Heavy Landing]({{site.baseurl}}/images/31.jpg)
 *SpaceX Falcon Heavy Landing - Kennedy Space Center, Merritt Island, United States - 02-06-2018*
 
+I'll start by gathering data from the SpaceX API and creating a clean dataset for further analysis. I intend to use Python functions in particular to automate the process and filter necessary data.
+To begin, I will use SpaceX data to determine whether a launch will be successful. I will:
+
+* Obtain data from the API
+* Create a Dataframe from it.
+* Clean and filter required data Address missing values
+* Export the newly created dataframe.
 
 <div class="gallery-box">
   <div class="gallery">
