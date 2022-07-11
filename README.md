@@ -129,7 +129,7 @@ Distributed under the GNU General Public License v3.0. See `LICENSE.txt` for mor
 Resources I found helpful and would like to give credit to!
 
 * [SpaceX REST API](https://github.com/r-spacex/SpaceX-API)
-* [Aditu](https://jekyllthemes.io/theme/aditu-blog-jekyll-theme)
+* [Jekyll](https://jekyllrb.com/)
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 * [Google Domains](https://domains.google)
 * [Google Analytics](https://analytics.google.com/analytics/web/provision/#/provision)
