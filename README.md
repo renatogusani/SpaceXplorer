@@ -104,7 +104,7 @@ Including Framesworks/Libraries
 - [x] Create an "About" tab on site
 - [x] Create a "Contact Me" tab on site
 - [x] Create a "Statistics" tab on site
-- [x] Create a "error 404" page for invalid locations on site
+- [x] Create an "error 404" page for invalid locations on site
 - [ ] Analyse and run ML algorithms on SpaceX API with Python and Anaconda tools
 - [ ] Query the SpaceX API with GraphQL
 - [ ] Host Live Stats from API to site 'Statistics' tab
