@@ -54,7 +54,7 @@
 
 <img src="images/home-screen.png" alt="Logo" width="852" height="479">
 
-**SpaceXplorer Goals are not yet set an might expand to use NASA API alongside the current.**
+* **SpaceXplorer Goals are not yet set and might expand to use NASA API alongside the current.**
 
 SpaceXplorer is a final year project created as part of my BSc in Data Science at National College of Ireland where I explore the SpaceX API with Data Science.
 
