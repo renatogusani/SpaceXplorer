@@ -109,7 +109,7 @@ Including Framesworks/Libraries
 - [ ] Query the SpaceX API with GraphQL
 - [ ] Host Live Stats from API to site 'Statistics' tab
 - [ ] Create and edit 10-page+ IEEE technical paper on the findings
-- [ ] Document key aspects of IEEE report on home tab of site
+- [ ] Document key aspects of IEEE report on home tab of site, such as KDD Methdology
 
 <!-- LICENSE -->
 ## License
