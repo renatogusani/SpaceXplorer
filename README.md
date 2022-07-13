@@ -63,7 +63,7 @@ Here's what you can expect to find on SpaceXplorer.info:
 * Machine Learning algorithms findings discussed thouroughly
 * Live Statistics from the API
 
-SpaceXplorer.info hosts all my findings from the Unofficial SpaceX API. Including but not limited to launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
+SpaceXplorer.info hosts all my findings from the Unofficial SpaceX API. Including live statistics from, but not limited to launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 
 
 <h4 align="center">
