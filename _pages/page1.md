@@ -5,9 +5,13 @@ permalink: /about/
 image: '/images/60.jpg'
 ---
 
-Hi, my name is Renato. I like cosmology, because therein lies the greatest of mysteries, the evolution of the universe, contains all the drama, suspense, and cool narrative elements while being classical and continuous. In this project, I explore the unofficial SpaceX API with Data Science and provide a framework where you can also explore the data with your own analysis. The API can be found [Here](https://github.com/r-spacex/SpaceX-API). This is an open Source REST API for launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
+Hi, my name is Renato. I like cosmology, because therein lies the greatest of mysteries, the evolution of the universe, contains all the drama, suspense, and cool narrative elements while being classical and continuous. In this project, I will explore the [Unofficial SpaceX API](https://github.com/r-spacex/SpaceX-API) & the [Official NASA API](https://api.nasa.gov) with Data Science and provide a framework where you can also explore the data with your own analysis. The SpaceX API is an open source REST API for launch, rocket, core, capsule, starlink, launchpad, and landing pad data, this is where the main exploration will take place.
 
 View the official Github Repo for the SpaceXplorer Project - [Here](https://github.com/renatogusani/spacexplorer)
+
+<p><iframe src="https://www.youtube.com/embed/wbSwFU6tY1c" frameborder="0" allowfullscreen></iframe></p>
+*SpaceXplorer Teaser Trailer*
+<!--
 
 ![SpaceX Falcon Heavy Landing]({{site.baseurl}}/images/31.jpg)
 *SpaceX Falcon Heavy Landing - Kennedy Space Center, Merritt Island, United States - 02-06-2018*
@@ -30,5 +34,5 @@ To begin, I will use SpaceX data to determine whether a launch will be successfu
 
 <p><iframe src="https://www.youtube.com/embed/wbSwFU6tY1c" frameborder="0" allowfullscreen></iframe></p>
 
-
+-->
 
