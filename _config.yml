@@ -2,7 +2,7 @@
 # General Site Settings
 title: SpaceXplorer
 logo: # You can add own logo. For example '/images/logo.png'.
-description: SpaceXplorer is a project where the Unofficial SpaceX API is explored with Data Science.
+description: SpaceXplorer is a project where the Unofficial SpaceX API and Official NASA API are explored with Data Science.
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "http://spacexplorer.com" # The base hostname & protocol for your site, e.g. http://example.com
 
@@ -18,7 +18,7 @@ author:
 # Hero Settings
 hero:
   title: SpaceXplorer
-  description: Explore the Unofficial SpaceX API with Data Science. 
+  description: Explore the SpaceX & NASA API with Data Science. 
   image: '/images/01.jpg'
 
 
