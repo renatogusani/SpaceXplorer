@@ -10,9 +10,8 @@ Hi, my name is Renato. I like cosmology, because therein lies the greatest of my
 View the official Github Repo for the SpaceXplorer Project - [Here](https://github.com/renatogusani/spacexplorer)
 
 <p><iframe src="https://www.youtube.com/embed/wbSwFU6tY1c" frameborder="0" allowfullscreen></iframe></p>
-*SpaceXplorer Teaser Trailer*
-<!--
 
+<!--
 ![SpaceX Falcon Heavy Landing]({{site.baseurl}}/images/31.jpg)
 *SpaceX Falcon Heavy Landing - Kennedy Space Center, Merritt Island, United States - 02-06-2018*
 
@@ -33,6 +32,5 @@ To begin, I will use SpaceX data to determine whether a launch will be successfu
 </div>
 
 <p><iframe src="https://www.youtube.com/embed/wbSwFU6tY1c" frameborder="0" allowfullscreen></iframe></p>
-
 -->
 
