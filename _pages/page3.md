@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Statistics
-permalink: /statistics/
+permalink: /stats/
 image: '/images/statistics.png'
 ---
