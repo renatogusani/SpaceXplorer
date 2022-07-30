@@ -107,8 +107,8 @@ Including Framesworks/Libraries
 - [x] Create a "Contact Me" tab on site
 - [x] Create a "Statistics" tab on site
 - [x] Create an "error 404" page for invalid locations on site
-- [ ] Create an "Astronomy Picture of the Day" tab on site and link to [`NASA APOD API`](https://apod.nasa.gov/apod/astropix.html)
-- [ ] Create short 20-second [`Project Trailer`](https://motionarray.com/premiere-pro-templates/epic-space-trailer-83446/)
+- [x] Create an "Astronomy Picture of the Day" tab on site and link to [`NASA APOD API`](https://apod.nasa.gov/apod/astropix.html)
+- [x] Create short 20-second [`Project Trailer`](https://motionarray.com/premiere-pro-templates/epic-space-trailer-83446/)
 - [ ] Analyse and run ML algorithms on SpaceX API with Python and Anaconda tools
 - [ ] Migrate the SpaceX API to GraphQL and create a basic app with ML to showcase landing/launch predictions
 - [ ] Host Live Stats from API to site 'Statistics' tab
