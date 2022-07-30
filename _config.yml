@@ -39,6 +39,7 @@ contact:
 social:
 - {icon: "ion-logo-github", link: "https://github.com/renatogusani"}
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/rgusani/"}
+- {icon: "ion-logo-link", link: "https://renatogusani.com"}
 
 #-------------------------------
 # Comment Section (Disqus)
