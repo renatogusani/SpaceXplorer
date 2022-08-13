@@ -3,6 +3,7 @@
 title: SpaceXplorer
 logo: # You can add own logo. For example '/images/logo.png'.
 description: SpaceXplorer is a project where the Unofficial SpaceX API and Official NASA API are explored with Data Science.
+More Information coming in October.
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "http://spacexplorer.com" # The base hostname & protocol for your site, e.g. http://example.com
 
