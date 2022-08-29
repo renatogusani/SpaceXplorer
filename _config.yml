@@ -18,8 +18,10 @@ author:
 # Hero Settings
 hero:
   title: SpaceXplorer
-  description: Explore the SpaceX & NASA API with Data Science.
-  -More Information coming in October-\n
+  description: |
+  Explore the SpaceX & NASA API with Data Science
+  More Information coming in October
+  
   image: '/images/01.jpg'
 
 
