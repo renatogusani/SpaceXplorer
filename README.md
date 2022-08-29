@@ -89,6 +89,7 @@ Including Framesworks/Libraries
 * [![Pandas][Pandas.org]][Pandas-url]
 * [![scikit][scikit.org]][scikit-url]
 * [![GraphQL][GraphQL.org]][GraphQL-url]
+* [![Ajax][Ajax.com]][Ajax-url]
 * [![Jekyll][Jekyll.com]][Jekyll-url]
 * [![GoogleDomains][GoogleDomains.com]][GoogleDomains-url]
 * [![GitHubPages][GitHubPages.com]][GitHubPages-url]
@@ -169,6 +170,8 @@ Resources I found helpful and would like to give credit to!
 [GraphQL-url]: https://graphql.org
 [Jekyll.com]: https://img.shields.io/badge/Jekyll-20232A?style=for-the-badge&logo=jekyll&logoColor=61DAFB
 [Jekyll-url]: https://jekyllrb.com
+[Ajax.com]: https://img.shields.io/badge/Ajax-20232A?style=for-the-badge&logo=ajax&logoColor=61DAFB
+[Ajax-url]: https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX
 [GoogleDomains.com]: https://img.shields.io/badge/GoogleDomains-20232A?style=for-the-badge&logo=googledomains&logoColor=61DAFB
 [GoogleDomains-url]: https://domains.google
 [GitHubPages.com]: https://img.shields.io/badge/GitHubPages-20232A?style=for-the-badge&logo=githubpages&logoColor=61DAFB
