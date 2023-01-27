@@ -6,3 +6,4 @@ image: id="image-container"
 ---
 
 <script src="/_pages/script.js"></script>
+<div id="image-container"></div>
