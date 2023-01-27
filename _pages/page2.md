@@ -5,4 +5,4 @@ permalink: /apod/
 image: id="image-container"
 ---
 
-<script src="_pages/script.js"></script>
+<script src="/_pages/script.js"></script>
