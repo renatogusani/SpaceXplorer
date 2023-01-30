@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My First Jekyll Post"
-date: YYYY-MM-DD HH:MM:SS -0000
+date: 2023-01-30 
 ---
 
 ## This is a Sub-Heading
