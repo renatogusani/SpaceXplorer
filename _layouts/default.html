@@ -20,25 +20,54 @@
   {% include footer.html %}
   {% include javascripts.html %}
   
-  <script>
-   const imageElement = document.getElementById("apod-image");
-   const titleElement = document.getElementById("apod-title");
-    <br>
-   </br>
-   const explanationElement = document.getElementById("apod-explanation");
-   const apiKey = "1ZSBQ0Aj50uSrkIbBMDtIu4cs2h65LTOLtgrdWG7";
+  <style>
+    .apod-frame {
+      border: 1px solid lightgray;
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0px 0px 10px lightgray;
+      margin-bottom: 20px;
+    }
 
-   fetch(`https://api.nasa.gov/planetary/apod?api_key=${apiKey}`)
-     .then(response => response.json())
-     .then(data => {
-       titleElement.innerText = data.title;
-       imageElement.src = data.url;
-       explanationElement.innerText = data.explanation;
-     })
-     .catch(error => {
-       console.error(error);
-     });
- </script>
+    .apod-title {
+      background-color: lightgray;
+      color: white;
+      padding: 10px;
+      font-size: 18px;
+      text-align: center;
+    }
+
+    .apod-explanation {
+      padding: 20px;
+      font-size: 14px;
+      line-height: 1.5;
+    }
+  </style>
+
+  <div class="apod-frame">
+    <img id="apod-image" src="" alt="Astronomy Picture of the Day">
+    <div class="apod-title" id="apod-title"></div>
+  </div>
+  <div class="apod-explanation" id="apod-explanation"></div>
+
+  <script>
+    const imageElement = document.getElementById("apod-image");
+    const titleElement = document.getElementById("apod-title");
+    const explanationElement = document.getElementById("apod-explanation");
+    const apiKey = "1ZSBQ0Aj50uSrkIbBMDtIu4cs2h65LTOLtgrdWG7";
+
+    fetch(`https://api.nasa.gov/planetary/apod?api_key=${apiKey}`)
+      .then(response => response.json())
+      .then(data => {
+        titleElement.innerText = data.title;
+        imageElement.src = data.url;
+        explanationElement.innerHTML = data.explanation;
+      })
+      .catch(error => {
+        console.error(error);
+      });
+  </script>
+
   
   
 </body>
