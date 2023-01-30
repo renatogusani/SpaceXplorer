@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spacex
 title: Statistics
 permalink: /stats/
 image: '/images/statistics.png'
