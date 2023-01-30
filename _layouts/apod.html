@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>NASA APOD</title>
+</head>
+<body>
+  <div id="apodContainer">
+    <h1 id="title"></h1>
+    <img id="image" />
+    <p id="explanation"></p>
+  </div>
+
+  <script>
+    const apodContainer = document.getElementById("apodContainer");
+    const titleElement = document.getElementById("title");
+    const imageElement = document.getElementById("image");
+    const explanationElement = document.getElementById("explanation");
+    const apiKey = "1ZSBQ0Aj50uSrkIbBMDtIu4cs2h65LTOLtgrdWG7";
+
+    fetch(`https://api.nasa.gov/planetary/apod?api_key=${apiKey}`)
+      .then(response => response.json())
+      .then(data => {
+        titleElement.innerText = data.title;
+        imageElement.src = data.url;
+        explanationElement.innerText = data.explanation;
+      })
+      .catch(error => {
+        apodContainer.innerText = "An error occurred while fetching the NASA APOD API data.";
+        console.error(error);
+      });
+  </script>
+</body>
+</html>
