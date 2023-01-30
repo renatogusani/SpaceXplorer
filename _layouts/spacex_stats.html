@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+  {% if site.google-analytics %}
+    {% include google-analytics.html %}
+  {% endif %}
+
+  {% include header.html %}
+
+  <!-- begin content -->
+  <main class="content" aria-label="Content">
+    {{ content }}
+  </main> 
+  <!-- end content -->
+  
+  <!-- SpaceXpy Live Statistics Script -->
+  <script>
+    const flightsLaunchedElement = document.getElementById("flights-launched");
+    const successRateElement = document.getElementById("success-rate");
+
+    fetch("https://api.spacexdata.com/v3/info")
+      .then(response => response.json())
+      .then(data => {
+        flightsLaunchedElement.innerText = data.launch_success_rate;
+        successRateElement.innerText = data.missions_launched;
+      })
+      .catch(error => {
+        console.error(error);
+      });
+  </script>
+
+  <div class="top" title="Top"><i class="ion ion-ios-arrow-up"></i></div>
+  {% include footer.html %}
+  {% include javascripts.html %}
+</body>
+
+</html>
