@@ -4,29 +4,23 @@ title: Statistics
 permalink: /stats/
 image: '/images/statistics.png'
 ---
-<body>
-  <div id="flight-number"></div>
-  <div id="mission-name"></div>
-  <div id="rocket-name"></div>
-  <div id="launch-year"></div>
+<table>
+  <thead>
+    <tr>
+      <th>Flight Number</th>
+      <th>Launch Date</th>
+      <th>Rocket Name</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for i in range(0, launches|length) %}
+    <tr>
+      <td>{{ flight_numbers[i] }}</td>
+      <td>{{ launch_dates[i] }}</td>
+      <td>{{ rocket_names[i] }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
 
-  <script>
-    const flightNumberElement = document.getElementById("flight-number");
-    const missionNameElement = document.getElementById("mission-name");
-    const rocketNameElement = document.getElementById("rocket-name");
-    const launchYearElement = document.getElementById("launch-year");
-
-    fetch("https://api.spacexdata.com/v3/launches/latest")
-      .then(response => response.json())
-      .then(data => {
-        flightNumberElement.innerText = "Flight Number: " + data.flight_number;
-        missionNameElement.innerText = "Mission Name: " + data.mission_name;
-        rocketNameElement.innerText = "Rocket Name: " + data.rocket.rocket_name;
-        launchYearElement.innerText = "Launch Year: " + data.launch_year;
-      })
-      .catch(error => {
-        console.error(error);
-      });
-  </script>
-</body>
 
