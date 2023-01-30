@@ -4,3 +4,23 @@ title: Astronomy Picture of the Day
 permalink: /apod/
 image: '/images/spacex.png'
 ---
+<body>
+<script>
+  const imageElement = document.getElementById("apod-image");
+  const titleElement = document.getElementById("apod-title");
+  const explanationElement = document.getElementById("apod-explanation");
+  const apiKey = "1ZSBQ0Aj50uSrkIbBMDtIu4cs2h65LTOLtgrdWG7";
+
+  fetch(`https://api.nasa.gov/planetary/apod?api_key=${apiKey}`)
+    .then(response => response.json())
+    .then(data => {
+      titleElement.innerText = data.title;
+      imageElement.src = data.url;
+      explanationElement.innerText = data.explanation;
+    })
+    .catch(error => {
+      console.error(error);
+    });
+</script>
+</body>
+
