@@ -7,14 +7,15 @@
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
     border-radius: 10px;
     overflow: hidden;
-    background-color: #fff;
+    background-color: #333;
+    color: #fff;
     padding: 30px;
   }
 
   #apod-title {
     font-size: 1.5em;
     margin: 0;
-    color: #333;
+    color: #fff;
   }
 
   #apod-image {
@@ -26,7 +27,7 @@
 
   #apod-explanation {
     font-size: 1.2em;
-    color: #333;
+    color: #fff;
     margin: 20px 0;
     text-align: left;
   }
@@ -50,8 +51,7 @@
     apodExplanation.textContent = data.explanation;
   };
 
-  fetch("https://api.nasa.gov/planetary/apod?api_key=1ZSBQ0Aj50uSrkIbBMDtIu4cs2h65LTOLtgrdWG7")
+  fetch("https://api.nasa.gov/planetary/apod?api_key=your-api-key")
     .then(res => res.json())
     .then(displayAPOD);
 </script>
-
