@@ -1,7 +1,57 @@
+<!-- _includes/apod.html -->
+<style>
+  #apod {
+    width: 80%;
+    margin: 50px auto;
+    text-align: center;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #fff;
+    padding: 30px;
+  }
 
+  #apod-title {
+    font-size: 1.5em;
+    margin: 0;
+    color: #333;
+  }
+
+  #apod-image {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    margin: 20px 0;
+  }
+
+  #apod-explanation {
+    font-size: 1.2em;
+    color: #333;
+    margin: 20px 0;
+    text-align: left;
+  }
+</style>
 
 <div id="apod">
-   <h2 id="apod-title"></h2>
-   <img id="apod-image" />
-   <p id="apod-explanation"></p>
- </div>
+  <h2 id="apod-title"></h2>
+  <img id="apod-image" />
+  <p id="apod-explanation"></p>
+</div>
+
+<script>
+  const displayAPOD = data => {
+    const apodTitle = document.querySelector("#apod-title");
+    apodTitle.textContent = data.title;
+
+    const apodImage = document.querySelector("#apod-image");
+    apodImage.src = data.url;
+
+    const apodExplanation = document.querySelector("#apod-explanation");
+    apodExplanation.textContent = data.explanation;
+  };
+
+  fetch("https://api.nasa.gov/planetary/apod?api_key=1ZSBQ0Aj50uSrkIbBMDtIu4cs2h65LTOLtgrdWG7")
+    .then(res => res.json())
+    .then(displayAPOD);
+</script>
+
