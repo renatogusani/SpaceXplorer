@@ -79,5 +79,7 @@
     launchDate.textContent = data.launch_date_local;
   };
 
-  getLatestLaunch().then(displayData);
+  fetch("https://api.spacexdata.com/v4/launches/latest")
+    .then(res => res.json())
+    .then(displayData);
 </script>
