@@ -19,23 +19,26 @@
   <div class="top" title="Top"><i class="ion ion-ios-arrow-up"></i></div>
   {% include footer.html %}
   {% include javascripts.html %}
+  
+<!-- Include jQuery library from a CDN -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
 <script>
-
-$(document).ready(function() {
-  //AJAX call to get live statistics from the API
-  $.ajax({
+$(document).ready(async function() {
+  //Await the API response before updating the HTML
+  const response = await $.ajax({
     url: "https://api.spacexdata.com/v3/launches/latest",
-    success: function(data) {
-      //Update the HTML with the latest statistics
-      $(".mission-name").text(data.mission_name);
-      $(".launch-date").text(data.launch_date_local);
-      $(".rocket-name").text(data.rocket.rocket_name);
-      $(".launch-site").text(data.launch_site.site_name_long);
-    }
+    dataType: "json"
   });
+
+  //Update the HTML with the latest statistics
+  $(".mission-name").text(response.mission_name);
+  $(".launch-date").text(response.launch_date_local);
+  $(".rocket-name").text(response.rocket.rocket_name);
+  $(".launch-site").text(response.launch_site.site_name_long);
 });
   </script>
+  
   
 </body>
 
