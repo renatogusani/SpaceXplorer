@@ -1,0 +1,15 @@
+//File: _layouts/stats.js
+
+$(document).ready(function() {
+  //AJAX call to get live statistics from the API
+  $.ajax({
+    url: "https://api.spacexdata.com/v3/launches/latest",
+    success: function(data) {
+      //Update the HTML with the latest statistics
+      $(".mission-name").text(data.mission_name);
+      $(".launch-date").text(data.launch_date_local);
+      $(".rocket-name").text(data.rocket.rocket_name);
+      $(".launch-site").text(data.launch_site.site_name_long);
+    }
+  });
+});
