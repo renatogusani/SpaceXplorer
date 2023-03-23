@@ -54,9 +54,7 @@
 
 <img src="images/home-screen.png" alt="Logo" width="852" height="479">
 
-* **SpaceXplorer Goals are not yet set and might expand to use Official NASA API alongside the Unofficial SpaceX API.**
-
-SpaceXplorer is a final year project created as part of my BSc in Data Science at National College of Ireland where I explore the SpaceX API with Data Science.
+SpaceXplorer is a final year project created as part of my BSc in Data Science at National College of Ireland where I explore the Space Data with Data Science.
 
 Here's what you can expect to find on SpaceXplorer.info:
 * The SpaceX API exploration and findings visualized in an unforgettable experience of viewing content. 
