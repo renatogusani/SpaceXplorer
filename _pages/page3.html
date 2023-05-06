@@ -101,51 +101,78 @@ image: '/images/statistics.png'
 </html>
 
 
-<table>
-	<tr>
-		<td>Total Launches:</td>
-		<td id="launch-count"></td>
-	</tr>
-	<tr>
-		<td>Successful Launches:</td>
-		<td id="successful-launch-count"></td>
-	</tr>
-	<tr>
-		<td>Failed Launches:</td>
-		<td id="failed-launch-count"></td>
-	</tr>
-	<tr>
-		<td>Upcoming Launches:</td>
-		<td id="upcoming-launch-count"></td>
-	</tr>
-	<tr>
-		<td>Net Launches:</td>
-		<td id="net-launch-count"></td>
-	</tr>
-</table>
-<script>
-	$(document).ready(function() {
-		$.getJSON("https://api.spacexdata.com/v4/launches", function(data) {
-			var launchCount = data.length;
-			var successfulLaunchCount = 0;
-			var failedLaunchCount = 0;
-			var upcomingLaunchCount = 0;
-			var netLaunchCount = 0;
-			for (var i = 0; i < launchCount; i++) {
-				if (data[i].success === true) {
-					successfulLaunchCount++;
-				} else if (data[i].success === false) {
-					failedLaunchCount++;
-				} else if (data[i].upcoming === true) {
-					upcomingLaunchCount++;
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>SpaceX Unofficial Stats</title>
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	<script>
+		$(document).ready(function() {
+			$.getJSON("https://api.spacexdata.com/v4/launches", function(data) {
+				var launchCount = data.length;
+				var successfulLaunchCount = 0;
+				var failedLaunchCount = 0;
+				var upcomingLaunchCount = 0;
+				var netLaunchCount = 0;
+				for (var i = 0; i < launchCount; i++) {
+					if (data[i].success === true) {
+						successfulLaunchCount++;
+					} else if (data[i].success === false) {
+						failedLaunchCount++;
+					} else if (data[i].upcoming === true) {
+						upcomingLaunchCount++;
+					}
 				}
-			}
-			netLaunchCount = launchCount - upcomingLaunchCount;
-			$("#launch-count").html(launchCount.toLocaleString());
-			$("#successful-launch-count").html(successfulLaunchCount.toLocaleString());
-			$("#failed-launch-count").html(failedLaunchCount.toLocaleString());
-			$("#upcoming-launch-count").html(upcomingLaunchCount.toLocaleString());
-			$("#net-launch-count").html(netLaunchCount.toLocaleString());
+				netLaunchCount = launchCount - upcomingLaunchCount;
+				$("#launch-count").html(launchCount.toLocaleString());
+				$("#successful-launch-count").html(successfulLaunchCount.toLocaleString());
+				$("#failed-launch-count").html(failedLaunchCount.toLocaleString());
+				$("#upcoming-launch-count").html(upcomingLaunchCount.toLocaleString());
+				$("#net-launch-count").html(netLaunchCount.toLocaleString());
+
+				// Mission Status Breakdown Table Row
+				var tableRow = $("<tr>");
+				tableRow.append($("<td>").text("Mission Status Breakdown:"));
+				var missionStatusCounts = {};
+				for (var i = 0; i < data.length; i++) {
+					var missionStatus = data[i].success === true ? "Success" : (data[i].success === false ? "Failure" : "Upcoming");
+					if (missionStatusCounts[missionStatus] == null) {
+						missionStatusCounts[missionStatus] = 0;
+					}
+					missionStatusCounts[missionStatus]++;
+				}
+				Object.keys(missionStatusCounts).forEach(function(key) {
+					tableRow.append($("<td>").text(key + " (" + missionStatusCounts[key] + ")"));
+				});
+				$("#stats-table").append(tableRow);
+			});
 		});
-	});
-</script>
+	</script>
+</head>
+<body>
+	<h1>SpaceX Unofficial Stats</h1>
+	<table id="stats-table">
+		<tr>
+			<td>Total Launches:</td>
+			<td id="launch-count"></td>
+		</tr>
+		<tr>
+			<td>Successful Launches:</td>
+			<td id="successful-launch-count"></td>
+		</tr>
+		<tr>
+			<td>Failed Launches:</td>
+			<td id="failed-launch-count"></td>
+		</tr>
+		<tr>
+			<td>Upcoming Launches:</td>
+			<td id="upcoming-launch-count"></td>
+		</tr>
+		<tr>
+			<td>Net Launches:</td>
+			<td id="net-launch-count"></td>
+		</tr>
+	</table>
+</body>
+</html>
+
