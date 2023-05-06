@@ -92,4 +92,58 @@ image: '/images/statistics.png'
 			<td id="total-distance"></td>
 		</tr>
 		<tr>
-			<td>Successful
+			<td>Successful Rocket Landings:</td>
+<td id="successful-landing-count"></td>
+</tr>
+<tr>
+<td>Total Payloads Launched:</td>
+<td id="total-payload-count"></td>
+</tr>
+<tr>
+<td>Total Distance Traveled (km):</td>
+<td id="total-distance-count"></td>
+</tr>
+</table>
+<script>
+$(document).ready(function() {
+  $.getJSON("https://api.spacexdata.com/v4/launches", function(data) {
+    var launchCount = data.length;
+    var successfulLaunchCount = 0;
+    var failedLaunchCount = 0;
+    var upcomingLaunchCount = 0;
+    var netLaunchCount = 0;
+    var successfulLandingCount = 0;
+    var totalPayloadCount = 0;
+    var totalDistanceCount = 0;
+    
+    for (var i = 0; i < launchCount; i++) {
+      if (data[i].success === true) {
+        successfulLaunchCount++;
+        if (data[i].cores[0].landing_success === true) {
+          successfulLandingCount++;
+        }
+        totalPayloadCount += data[i].rocket.second_stage.payloads.length;
+        totalDistanceCount += data[i].rocket.second_stage.payloads.reduce(function(acc, val) {
+          return acc + val.payload_mass_kg;
+        }, 0);
+      } else if (data[i].success === false) {
+        failedLaunchCount++;
+      } else if (data[i].upcoming === true) {
+        upcomingLaunchCount++;
+      }
+    }
+    
+    netLaunchCount = launchCount - upcomingLaunchCount;
+    $("#launch-count").html(launchCount.toLocaleString());
+    $("#successful-launch-count").html(successfulLaunchCount.toLocaleString());
+    $("#failed-launch-count").html(failedLaunchCount.toLocaleString());
+    $("#upcoming-launch-count").html("<a href='https://www.spacex.com/missions'>" + upcomingLaunchCount.toLocaleString() + "</a>");
+    $("#net-launch-count").html(netLaunchCount.toLocaleString());
+    $("#successful-landing-count").html(successfulLandingCount.toLocaleString());
+    $("#total-payload-count").html(totalPayloadCount.toLocaleString());
+    $("#total-distance-count").html(totalDistanceCount.toLocaleString());
+  });
+});
+</script>
+</body>
+</html>
