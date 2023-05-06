@@ -41,7 +41,7 @@ image: '/images/statistics.png'
 				$("#launch-count").html(launchCount.toLocaleString());
 				$("#successful-launch-count").html(successfulLaunchCount.toLocaleString());
 				$("#failed-launch-count").html(failedLaunchCount.toLocaleString());
-				$("#upcoming-launch-count").html(upcomingLaunchCount.toLocaleString());
+				$("#upcoming-launch-count").html("<a href='https://www.spacex.com/missions'> " + upcomingLaunchCount.toLocaleString() + "</a>");
 				$("#net-launch-count").html(netLaunchCount.toLocaleString());
 
 				// Mission Status Breakdown Table Row
@@ -56,7 +56,12 @@ image: '/images/statistics.png'
 					missionStatusCounts[missionStatus]++;
 				}
 				Object.keys(missionStatusCounts).forEach(function(key) {
-					tableRow.append($("<td>").text(key + " (" + missionStatusCounts[key] + ")"));
+					var missionStatusCount = missionStatusCounts[key];
+					if (key === "Upcoming") {
+						tableRow.append($("<td>").html("<a href='https://www.spacex.com/missions'>" + key + " (" + missionStatusCount + ")</a>"));
+					} else {
+						tableRow.append($("<td>").text(key + " (" + missionStatusCount + ")"));
+					}
 				});
 				$("#stats-table").append(tableRow);
 			});
