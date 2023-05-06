@@ -41,24 +41,8 @@ image: '/images/statistics.png'
 				$("#launch-count").html(launchCount.toLocaleString());
 				$("#successful-launch-count").html(successfulLaunchCount.toLocaleString());
 				$("#failed-launch-count").html(failedLaunchCount.toLocaleString());
-				$("#upcoming-launch-count").html(upcomingLaunchCount.toLocaleString());
+				$("#upcoming-launch-count").html("<a href='https://www.spacex.com/missions'> " + upcomingLaunchCount.toLocaleString() + "</a>");
 				$("#net-launch-count").html(netLaunchCount.toLocaleString());
-
-				// Mission Status Breakdown Table Row
-				var tableRow = $("<tr>");
-				tableRow.append($("<td>").text("Mission Status Breakdown:"));
-				var missionStatusCounts = {};
-				for (var i = 0; i < data.length; i++) {
-					var missionStatus = data[i].success === true ? "Success" : (data[i].success === false ? "Failure" : "Upcoming");
-					if (missionStatusCounts[missionStatus] == null) {
-						missionStatusCounts[missionStatus] = 0;
-					}
-					missionStatusCounts[missionStatus]++;
-				}
-				Object.keys(missionStatusCounts).forEach(function(key) {
-					tableRow.append($("<td>").text(key + " (" + missionStatusCounts[key] + ")"));
-				});
-				$("#stats-table").append(tableRow);
 			});
 		});
 	</script>
@@ -86,10 +70,6 @@ image: '/images/statistics.png'
 			<td>Net Launches:</td>
 			<td id="net-launch-count"></td>
 		</tr>
-		<tr>
-			<td colspan="2" style="text-align: center;">Mission Status Breakdown:</td>
-		</tr>
 	</table>
 </body>
 </html>
-
