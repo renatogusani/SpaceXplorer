@@ -28,9 +28,19 @@ image: '/images/statistics.png'
 				var failedLaunchCount = 0;
 				var upcomingLaunchCount = 0;
 				var netLaunchCount = 0;
+				var totalPayloads = 0;
+				var totalDistance = 0;
+				var successfulLandings = 0;
 				for (var i = 0; i < launchCount; i++) {
 					if (data[i].success === true) {
 						successfulLaunchCount++;
+						if (data[i].land_success === true) {
+							successfulLandings++;
+						}
+						totalPayloads += data[i].payloads.length;
+						totalDistance += data[i].rocket.second_stage.payloads.reduce(function(sum, payload) {
+							return sum + payload.payload_mass_kg;
+						}, 0);
 					} else if (data[i].success === false) {
 						failedLaunchCount++;
 					} else if (data[i].upcoming === true) {
@@ -43,6 +53,9 @@ image: '/images/statistics.png'
 				$("#failed-launch-count").html(failedLaunchCount.toLocaleString());
 				$("#upcoming-launch-count").html("<a href='https://www.spacex.com/missions'> " + upcomingLaunchCount.toLocaleString() + "</a>");
 				$("#net-launch-count").html(netLaunchCount.toLocaleString());
+				$("#total-payloads").html(totalPayloads.toLocaleString());
+				$("#total-distance").html(totalDistance.toLocaleString() + " kg");
+				$("#successful-landings").html(successfulLandings.toLocaleString());
 			});
 		});
 	</script>
@@ -70,6 +83,13 @@ image: '/images/statistics.png'
 			<td>Net Launches:</td>
 			<td id="net-launch-count"></td>
 		</tr>
-	</table>
-</body>
-</html>
+		<tr>
+			<td>Total Payloads Launched:</td>
+			<td id="total-payloads"></td>
+		</tr>
+		<tr>
+			<td>Total Distance Traveled:</td>
+			<td id="total-distance"></td>
+		</tr>
+		<tr>
+			<td>Successful
