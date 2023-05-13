@@ -8,7 +8,7 @@
   <h3 align="center">SpaceXplorer</h3>
 
    <p align="center">
-     Explore the Unofficial SpaceX API with Data Science.
+     Explore Space History Data Science.
      <br />
      <a href="https://github.com/renatogusani/spacexplorer"><strong>Explore the docs »</strong></a>
      <br />
